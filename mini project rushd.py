@@ -2,9 +2,9 @@
 RECORD CHECK  -  my version
 ===========================
 
-Name  :
+Name  :  Rushd Tariq
 Lane  :  AI / Cyber / IT      (delete two)
-Date  :
+Date  :  27/10/2026
 
 Run it:   python template.py
 
